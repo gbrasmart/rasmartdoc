@@ -158,5 +158,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-SOCIAL
-==================
+.. image:: _static/1.png
